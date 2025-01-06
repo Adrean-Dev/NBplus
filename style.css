@@ -3,10 +3,10 @@ body {
 }
 
 #logo-main {
-    align-content: center;
+    padding-right: 50%;
 }
 
 #prox-banner {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: #ecb84a;
+    color: #b3061b;
 }
